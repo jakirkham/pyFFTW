@@ -63,7 +63,7 @@ it is not tested against them.
 Optional Dependencies
 ---------------------
 - Scipy_ >= 0.16
-- Dask_ >= 0.14.2
+- Dask_ >= 0.15.0
 
 Scipy and Dask are only required in order to use their respective interfaces.
 
