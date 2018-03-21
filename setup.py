@@ -760,7 +760,8 @@ def setup_package():
     install_requires = [numpy_requirement]
 
     opt_requires = {
-        'dask': ['dask[array]>=0.15.0']
+        'dask': ['dask[array]>=0.15.0'],
+        'scipy': ['scipy>=>=0.16.0']
     }
 
     setup_args = {
